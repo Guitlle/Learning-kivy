@@ -4,6 +4,13 @@ Install cython, gamepy and kivy via pip.
 
 If you have a system with a default python of version 2 (check what `python --version` says), you should install python3 and python3-pip before and use pip3 and python3 commands instead of pip and python.
 
+```
+sudo apt install python3 python3-pip
+sudo -H pip3 install cython
+sudo -H pip3 install pygame
+sudo -H pip3 install --upgrade kivy
+```
+
 This helloworld example has been taken from kivy basic guide: https://kivy.org/doc/stable/guide/basic.html
 
 Run with:
