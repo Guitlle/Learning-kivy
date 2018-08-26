@@ -1,6 +1,8 @@
 # 1 - Introduction
 
-Install cython, gamepy and kivy via pip. 
+This is based on kivy 1.10. You can install it using the official compiled [packages](https://kivy.org/#download).
+
+Install cython, gamepy and kivy via package manager or via pip. 
 
 If you have a system with a default python of version 2 (check what `python --version` says), you should install python3 and python3-pip before and use pip3 and python3 commands instead of pip and python.
 
